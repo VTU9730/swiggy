@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/swiggy/static/js/main.eb7a7316.js",
+    "main.js": "/swiggy/static/js/main.c9e76258.js",
     "index.html": "/swiggy/index.html",
-    "main.eb7a7316.js.map": "/swiggy/static/js/main.eb7a7316.js.map"
+    "main.c9e76258.js.map": "/swiggy/static/js/main.c9e76258.js.map"
   },
   "entrypoints": [
-    "static/js/main.eb7a7316.js"
+    "static/js/main.c9e76258.js"
   ]
 }
