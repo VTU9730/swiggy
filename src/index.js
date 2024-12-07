@@ -59,7 +59,7 @@ const appRoter = createBrowserRouter([
     }
 ], 
 {
-  basename: '/'  // replace 'your-repo-name' with your actual GitHub repository name
+  basename: process.env.PUBLIC_URL || '/swiggy'  // replace 'your-repo-name' with your actual GitHub repository name
   }  
 )
 
