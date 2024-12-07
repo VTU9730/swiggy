@@ -39,11 +39,11 @@ const appRoter = createBrowserRouter([
             }
         ],
         errorElement: <Error />
-    },  
-    {
-        basename: '/swiggy'  // replace 'your-repo-name' with your actual GitHub repository name
     }
-]
+],  
+{
+    basename: '/'  // replace 'your-repo-name' with your actual GitHub repository name
+}
 )
 
 root.render(<RouterProvider router={appRoter}/>)
